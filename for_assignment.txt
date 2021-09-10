@@ -1,5 +1,0 @@
-This is a test commit by Jie Lyu
-This is a test commit by Kevin Perdomo
-This is a test commit by Han Cao
-This is a test commit by Gaetan Germain
-This is a test commit by Stephen Hirvela
